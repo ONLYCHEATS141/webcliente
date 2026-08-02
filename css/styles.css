@@ -96,6 +96,11 @@
   .btn-ghost.on-dark{ color:var(--white); border-color:rgba(255,255,255,0.4); }
   .btn-ghost.on-dark:hover{ border-color:var(--white); color:var(--white); background:rgba(255,255,255,0.08); }
   .btn-sm{ padding:8px 14px; font-size:13px; }
+  .nav-phone{
+    font-family:'IBM Plex Mono', monospace; font-weight:600; font-size:15px;
+    color:var(--navy); text-decoration:none; letter-spacing:0.02em;
+  }
+  .nav-phone:hover{ color:var(--blue); }
 
   /* ---------- hero ---------- */
   .hero{
